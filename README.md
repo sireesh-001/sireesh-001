@@ -1,30 +1,15 @@
-### Hi there 👋
-
-**sireesh-001/sireesh-001** is a ✨ 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/sireesh-reddy" target="_blank"> Sireesh Reddy </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
+<img width="40%" align="right"   src="https://github.com/sireesh-001/sireesh-001/blob/main/workbench.svg" >
 
 A bit about Myself, I am <b>Sireesh Reddy</b> pursuing my <b>Computer Science Engineering</b> from BML Munjal University, Currently in my third-Year of B.Tech. As of now, I am focused on <b>competitive programming, problem solving, Data Science, artificial intelligence ,web development, Android development</b> but still, wish to explore many fields.¡
 
 <h3 align="center"> Web and App Developer | Machine Learning Enthusiast </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=sireesh-001&label=Profile%20views&color=6805D3&style=flat" alt="sireesh-001" /> </p></h3>
    <div align="center">
 
-<h1>Technical Skills ðŸ› </h1>
+<h1>Technical Skills </h1>
    
 I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery and ReactJs. I have Worked on Supervised and Unsupervised Machine learning, ML Algorithms(Linear regression, Naive byes, K-means and random forest). Have explored and built projects using datasets of scikit-learn , Kaggle and keras. Tech: Data Science, Machine learning, Microsoft Azure, Deep learning, Google cloud, NodeJs, Firebase, Tensor Flow, SQL.
  Known Languages: Python, C++, C, Java, Html, JavaScript, and CSS.
@@ -67,7 +52,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Portfolio Website](https://sauravmukherjee44.github.io/Portfolio-Saurav-Mukherjee/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
+| [My Portfolio Website](https://sireesh-001.github.io/Profile_Website/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
 | [College Library Website](https://sauravmukherjee44.github.io/Aec-Library-Website/)   | This is a College Library Website in which you can keep a record of all the books you have    | issued.Â© 2021 Saurav Mukherjee 
 | [Machine Learning Prediction Model](https://github.com/SauravMukherjee44/The-Sparks-Foundation---Machine-Learning-Task-1/blob/main/Sparks%20Foundation%20Task%20-1%20.ipynb)     | In this regression task we will predict the  percentage of marks that a student is expected to score based upon the number of hours they studied. |
 | [E-Mail Classification Model](https://github.com/SauravMukherjee44/Email-Classification-Model)     | Classify emails as spam or not-spam on the basis of the message.
@@ -96,13 +81,12 @@ I believe in implementing the knowledge which you have. Projects play a major ro
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sireesh-001&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sireesh-001" /></td>
   </tr>
 </table>
-
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SauravMukherjee44&theme=dark" alt="SauravMukherjee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sireesh-001&date_format=M%20j%5B%2C%20Y%5D&theme=dark" alt="Sireesh-001" /></p>
   </div>
 
- [![SauravMukherjee44's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SauravMukherjee44&theme=xcode)](https://git.io/SauravMukherjee44)
+ [![sireesh-001's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sireesh-001&date_format=M%20j%5B%2C%20Y%5D&theme=xcode)](https://git.io/sireesh-001)
    
    
 
-[![GitHub followers](https://img.shields.io/github/followers/SauravMukherjee44.svg?style=social&label=Follow)](https://github.com/sireesh-001?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/sireesh-001.svg?style=social&label=Follow)](https://github.com/sireesh-001?tab=followers)
