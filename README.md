@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**sireesh-001/sireesh-001** is a ✨ _special_ ✨ repository because its `README.md` .
+**sireesh-001/sireesh-001** is a ✨ 
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"> Saurav Mukherjee </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/sireesh-reddy" target="_blank"> Sireesh Reddy </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
 A bit about Myself, I am <b>Sireesh Reddy</b> pursuing my <b>Computer Science Engineering</b> from BML Munjal University, Currently in my third-Year of B.Tech. As of now, I am focused on <b>competitive programming, problem solving, Data Science, artificial intelligence ,web development, Android development</b> but still, wish to explore many fields.¡
