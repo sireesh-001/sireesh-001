@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/sireesh-reddy" target="_blank"> Sireesh Reddy </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <img width="40%" align="right"   src="https://github.com/sireesh-001/sireesh-001/blob/main/workbench.svg" >
 
@@ -11,7 +11,7 @@ A bit about Myself, I am <b>Sireesh Reddy</b> pursuing my <b>Computer Science En
 
 <h1>Technical Skills </h1>
    
-I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery and ReactJs. I have Worked on Supervised and Unsupervised Machine learning, ML Algorithms(Linear regression, Naive byes, K-means and random forest). Have explored and built projects using datasets of scikit-learn , Kaggle and keras. Tech: Data Science, Machine learning, Microsoft Azure, Deep learning, Google cloud, NodeJs, Firebase, Tensor Flow, SQL.
+I have Worked on Supervised and Unsupervised Machine learning, ML Algorithms(Linear regression, Naive byes, K-means and random forest). Have explored and built projects using datasets of scikit-learn , Kaggle and keras. Tech: Data Science, Machine learning, Microsoft Azure, Deep learning, Google cloud, NodeJs, Firebase, Tensor Flow, SQL. I have learned web-development and having knowledge of HTML,CSS & Javascript, NodeJS and MongoDB. 
  Known Languages: Python, C++, C, Java, Html, JavaScript, and CSS.
 
 <p align="center"> 
@@ -53,10 +53,10 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [My Portfolio Website](https://sireesh-001.github.io/Profile_Website/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
-| [College Library Website](https://sauravmukherjee44.github.io/Aec-Library-Website/)   | This is a College Library Website in which you can keep a record of all the books you have    | issued.Â© 2021 Saurav Mukherjee 
-| [Machine Learning Prediction Model](https://github.com/SauravMukherjee44/The-Sparks-Foundation---Machine-Learning-Task-1/blob/main/Sparks%20Foundation%20Task%20-1%20.ipynb)     | In this regression task we will predict the  percentage of marks that a student is expected to score based upon the number of hours they studied. |
-| [E-Mail Classification Model](https://github.com/SauravMukherjee44/Email-Classification-Model)     | Classify emails as spam or not-spam on the basis of the message.
-| [Payment Gateway Integration](https://sauravmukherjee44.github.io/Payment-Gateway-Integration/)     | Payment Gateway Integration for Donating specific amount of Money directly to the Needed one. Payment gateway integration, Razorpay is used.
+| [Air Easy](https://github.com/sireesh-001/AirEasy2)   | Air Easy is an Android mobile application that allows a user to book flight tickets and provides facilities for easy flight journey right from booking tickets to reaching the destination and includes many features such as maps, ticket pdf generation, and more. Language used: Java and Database used: Firebase.
+| [Mind Cracker Application](https://github.com/sireesh-001/MindCracker)     | A standalone application Created with the use of core java and MySQL using a very interactive interface. The application is modified to improve the skills of students perceiving Secondary education in the fields of PCM. It contains various features to help students to improve their skills such as Analysis stats for their progress and many more ... |
+| [Image Forgery Detection and Localization](https://github.com/sireesh-001/Image_Forgeries_and_localization)     | This project focus on building a system that will separate the type of forgeries in images and will localize them in minimal time using TensorFlow, CNN, and other deep learning tools.
+| [Covid-19 Voice Diagnosis](https://github.com/sireesh-001/Covid-19-Voice-Diagnosis)     | Developed a model for detecting Covid-19 using Voice (Breath, cough) Diagnosis and Extracting features from Handcrafted and Google’s VGGish Model, then predicting the result in minimal time using PCA and SVM methodology.
 
  <h1 align="center">Let's Get Connected</h1>
 
