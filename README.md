@@ -4,7 +4,7 @@
 
 A bit about Myself, I am <b>Sireesh Reddy</b> pursuing my <b>Computer Science Engineering</b> from BML Munjal University, Currently in my third-Year of B.Tech. As of now, I am focused on <b>competitive programming, problem solving, Data Science, artificial intelligence ,web development, Android development</b> but still, wish to explore many fields.¡
 
-<h3 align="center"> Web and App Developer | Machine Learning Enthusiast </h3>
+<h3 align="center">Problem Solver| Machine Learning Enthusiast | Web and App Developer </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=sireesh-001&label=Profile%20views&color=6805D3&style=flat" alt="sireesh-001" /> </p></h3>
    <div align="center">
